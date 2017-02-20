@@ -14,8 +14,6 @@ function decreaseCount() {
 
 function logCountInConsole() {
   //Define a function that console.logs a message as many times as the count says.
-  //For example, if the count is 6, pressing the logCountInConsole should loop 6 times.
-  for (/*fill me in*/) {
-    console.log("This is a log message", i) //This is the log message
-  }
+  //For example, if the count is 6, it should log 6 times.
+
 }
